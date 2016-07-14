@@ -1,0 +1,16 @@
+PODS:
+  - YandexMapKit-Drawing (0.1.0)
+
+DEPENDENCIES:
+  - YandexMapKit-Drawing (from `../`)
+
+EXTERNAL SOURCES:
+  YandexMapKit-Drawing:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YandexMapKit-Drawing: 2ad11e63667ad0e798360661c076784139e67beb
+
+PODFILE CHECKSUM: 510e2dcb06478dffcb37221a524501a0643bfaed
+
+COCOAPODS: 1.0.1
